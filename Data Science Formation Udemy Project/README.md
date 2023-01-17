@@ -1,3 +1,11 @@
 # Data Science Formation Udemy Project
 
-Aqui temos um estudo de caso da Formação de Cientista de Dados da Udemy, está contido os o pdf da explicação dos estudos de caso, o excel contendo os arquivos a serem analisados e coloquei também o Script dos Dashboards criados assim como o pdf dos dashboards que infelizmente não é interativo.
+## Introduction
+
+Here we have a case study of the Udemy Data Scientist Training, in this repository contains the Estudo de Caso.pdf.pdf explaining the case studies, the excel containing the files to be analyzed and I also put the Script of the Dashboards created as well as the Vendas.pdf of the dashboards which unfortunately is not interactive.
+
+## Technology Used
+-Tableau
+
+## Data Used
+https://github.com/Math-Muniz/Tableau/blob/main/Data%20Science%20Formation%20Udemy%20Project/Dados.xlsx
